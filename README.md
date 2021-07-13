@@ -6,7 +6,7 @@ Dobrodošli na stranicu putem koje građani mogu predlagati i komentirati prijed
 - [Uređivanje teksta](https://guides.github.com/features/mastering-markdown/)
 - [Izrada novog prijedloga](https://youtu.be/-tRiirsV3vY)
 
-### Preporučeni format prijedloga
+## Preporučeni format
 Format kopirajte i popunite.
 ```
 Broj: 
