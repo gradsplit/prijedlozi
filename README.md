@@ -6,12 +6,12 @@ Kako uređivati tekst: https://guides.github.com/features/mastering-markdown/
 
 ### Preporučeni format prijedloga
 ```
- Broj: 1
- Naslov: 
- Autor: Ime i prezime <email>
- Status: 
- Tema: 
- Datum izrade:
+Broj: 
+Naslov: 
+Autor: Ime i prezime <email>
+Status: 
+Tema: 
+Datum izrade:
 
 ## U jednoj rečenici
 
