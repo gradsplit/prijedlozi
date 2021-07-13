@@ -1,6 +1,8 @@
-# prijedlozi
+# Prijedlozi građana za Grad Split
 
-Kako uređivati tekst na githubu: https://guides.github.com/features/mastering-markdown/
+## Upute
+
+Kako uređivati tekst: https://guides.github.com/features/mastering-markdown/
 
 # Preporučena forma
 ```
