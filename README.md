@@ -7,6 +7,7 @@ Dobrodošli na stranicu putem koje građani mogu predlagati i komentirati prijed
 - [Izrada novog prijedloga](https://youtu.be/-tRiirsV3vY)
 
 ### Preporučeni format prijedloga
+Format kopirajte i popunite.
 ```
 Broj: 
 Naslov: 
