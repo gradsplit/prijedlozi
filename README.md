@@ -1,10 +1,10 @@
 # Prijedlozi građana za Grad Split
 
 ## Upute
-
+Kako napraviti prijedlog: [![Watch the video](https://img.youtube.com/vi/-tRiirsV3vY/maxresdefault.jpg)](https://youtu.be/-tRiirsV3vY)
 Kako uređivati tekst: https://guides.github.com/features/mastering-markdown/
 
-# Preporučena forma
+### Preporučeni format prijedloga
 ```
  Broj: 1
  Naslov: 
@@ -12,10 +12,8 @@ Kako uređivati tekst: https://guides.github.com/features/mastering-markdown/
  Status: 
  Tema: 
  Datum izrade:
-```
-```
-## U jednoj rečenici
 
+## U jednoj rečenici
 
 ## Sažetak
 [maksimalno 500 znakova]
